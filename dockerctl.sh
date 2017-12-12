@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Start|Stop Docker from MacOS terminal
+# Usage: ./dockerctl.sh                                                                                                                         ~
 
 docker_start(){
     open -g -W /Applications/Docker.app &
